@@ -4,7 +4,7 @@ Hello. This repository contains various resources and guides that I've created w
 
 ## Table of Contents 🔎
 
-- [Getting Started](#getting-started)
+- [Getting Started](#getting-started-🙌)
 - [Basic Commands](#basic-commands)
 - [Branching](#branching)
 - [Merging](#merging)

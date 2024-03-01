@@ -4,14 +4,14 @@ Hello. This repository contains various resources and guides that I've created w
 
 ## Table of Contents 🔎
 
-- [Getting Started](#getting-started-🙌)
-- [Basic Commands](#basic-commands)
-- [Branching](#branching)
-- [Merging](#merging)
-- [Collaboration](#collaboration)
-- [Best Practices](#best-practices)
-- [Resources](#resources)
-- [Contributing](#contributing)
+- [Getting Started](#getting-started) 🔎
+- [Basic Commands](#basic-commands) 🎯
+- [Branching](#branching) 📚
+- [Merging](#merging) 🌟
+- [Collaboration](#collaboration) 🤝
+- [Best Practices](#best-practices) 🤓
+- [Resources](#resources) 🌐
+- [Contributing](#contributing) 📢
 
 ## Getting Started 🙌
 
